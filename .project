@@ -1,7 +1,7 @@
 {
     "date": ["WINTER", "2015.11"],
-    "hardware": ["SOLID_PINE_WOOD", "NATURAL OIL", "WAX"],
-    "software": ["KUTZALL WHEELS", "IDRAW"],
-    "overview": "",
+    "hardware": ["SOLID_PINE_WOOD", "KUTZALL WHEELS", "NATURAL OIL", "WAX"],
+    "software": ["IDRAW"],
+    "overview": " проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)",
     "making": ""
 }
