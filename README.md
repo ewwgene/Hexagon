@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## Hexagon. _WINTER-2015.11._
-![[Hexagon](/100.jpg)](https://ewwgene.github.io/Hexagon/Carousel)<a href="https://ewwgene.github.io/Hexagon/Carousel/#101"><img src="https://ewwgene.github.io/Hexagon/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Hexagon/Carousel/#102"><img src="https://ewwgene.github.io/Hexagon/102.jpg" height="66"></a> 
+[![Hexagon](/100.jpg)](https://ewwgene.github.io/Hexagon/Carousel)<a href="https://ewwgene.github.io/Hexagon/Carousel/#101"><img src="https://ewwgene.github.io/Hexagon/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Hexagon/Carousel/#102"><img src="https://ewwgene.github.io/Hexagon/102.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)
