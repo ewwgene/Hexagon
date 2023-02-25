@@ -1,6 +1,6 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-## [/Hexagon. _WINTER-2015.11._](https://ewwgene.github.io/Hexagon)
+### [Hexagon. — _DESIGN SERIES._](https://ewwgene.github.io/Hexagon)
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Hexagon/100.jpg)
 <a id="101"></a> ![101.jpg](https://ewwgene.github.io/Hexagon/101.jpg)
 <a id="102"></a> ![102.jpg](https://ewwgene.github.io/Hexagon/102.jpg)
