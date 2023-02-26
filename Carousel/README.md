@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### [Hexagon. — _DESIGN SERIES._](https://ewwgene.github.io/Hexagon)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [Hexagon /](https://ewwgene.github.io/Hexagon)
+
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Hexagon/100.jpg)
 <a id="101"></a> ![101.jpg](https://ewwgene.github.io/Hexagon/101.jpg)
 <a id="102"></a> ![102.jpg](https://ewwgene.github.io/Hexagon/102.jpg)
@@ -12,3 +12,5 @@
 <a id="300"></a> ![300.jpg](https://ewwgene.github.io/Hexagon/300.jpg)
 <a id="301"></a> ![301.jpg](https://ewwgene.github.io/Hexagon/301.jpg)
 
+
+### [ABOUT/](https://ewwgene.github.io/) 
