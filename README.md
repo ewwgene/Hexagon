@@ -1,7 +1,7 @@
 ﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Hexagon
 
-[![Hexagon](/100.jpg)](https://ewwgene.github.io/Hexagon/Carousel)<br> <a id="101" href="https://ewwgene.github.io/Hexagon/Carousel/#101"><img src="https://ewwgene.github.io/Hexagon/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Hexagon/Carousel/#102"><img src="https://ewwgene.github.io/Hexagon/102.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Hexagon](/100.jpg)](https://ewwgene.github.io/Hexagon/Carousel)<br> <a id="102" href="https://ewwgene.github.io/Hexagon/Carousel/#102"><img src="https://ewwgene.github.io/Hexagon/102.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`WAX`_ 
 
@@ -14,7 +14,7 @@ _`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_
 
 Фигурная форма фрезерованна твердосплавными дисками  _**`KUTZALL_WHEELS`**_. Размеры _900mm&times;900mm&times;400mm_.
 
-<a id="300" href="https://ewwgene.github.io/Hexagon/Carousel/#300"><img src="https://ewwgene.github.io/Hexagon/300.jpg" height="66"></a> <a id="301" href="https://ewwgene.github.io/Hexagon/Carousel/#301"><img src="https://ewwgene.github.io/Hexagon/301.jpg" height="66"></a> 
+<a id="301" href="https://ewwgene.github.io/Hexagon/Carousel/#301"><img src="https://ewwgene.github.io/Hexagon/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Hexagon/Carousel/#303"><img src="https://ewwgene.github.io/Hexagon/303.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Hexagon/Carousel/#305"><img src="https://ewwgene.github.io/Hexagon/305.jpg" height="66"></a> 
 
 _`DESIGN`_ _`FURNITURE`_ 
 
